@@ -1,0 +1,46 @@
+// theme-strawberry
+// by Dania Rifki
+// Released under 0BSD
+
+defcolor_back = 0xFF2B1218;
+defcolor_margin = 0xFF323232;
+defcolor_margin_hover = 0xFF756166;
+defcolor_margin_active = 0xFF40252C;
+defcolor_list_item = defcolor_margin;
+defcolor_list_item_hover = defcolor_margin_hover;
+defcolor_list_item_active = defcolor_margin_active;
+defcolor_cursor = 0xFFD46A84;
+defcolor_at_cursor = defcolor_back;
+defcolor_highlight_cursor_line = 0xFF3B2C33;
+defcolor_highlight = 0xFF75616B;
+defcolor_mark = 0xFFD46A84;
+defcolor_text_default = 0xFF9E838A;
+defcolor_at_highlight = defcolor_back;
+defcolor_comment = 0xFF756166;
+defcolor_comment_pop = {0xFFAB8E38, 0xFFAB8E38};
+defcolor_keyword = 0xFF75616B;
+defcolor_str_constant = 0xFF557b9E;
+defcolor_char_constant = defcolor_str_constant;
+defcolor_int_constant = defcolor_str_constant;
+defcolor_float_constant = defcolor_str_constant;
+defcolor_bool_constant = defcolor_str_constant;
+defcolor_include = defcolor_str_constant;
+defcolor_preproc = defcolor_text_default;
+defcolor_special_character = 0xFF8B6A9E;
+defcolor_ghost_character = 0xFFB5A3AC;
+
+defcolor_paste = 0xFF75616B;
+
+defcolor_undo = 0xFF8A7680;
+
+defcolor_highlight_junk = 0xffbf5858;
+defcolor_highlight_white = 0xfffff0f7;
+
+defcolor_bar = 0xFFAB6A7A;
+defcolor_bar_active = defcolor_bar;
+defcolor_base = defcolor_back;
+defcolor_pop1 = 0xFFAB6A7A;
+defcolor_pop2 = 0xFFA46A84;
+
+defcolor_back_cycle = {0xFFb5a3ac, 0xFF9e8b95, 0xff8a7680, 0xff75616b};
+defcolor_text_cycle = defcolor_back_cycle;
