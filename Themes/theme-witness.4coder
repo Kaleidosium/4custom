@@ -37,11 +37,5 @@ defcolor_base = 0xFF000000;
 defcolor_pop1 = 0xFF3C57DC;
 defcolor_pop2 = 0xFFFF0000;
 
-// Back_Cycle_1 = 0x10A00000;
-// Back_Cycle_2 = 0x0C00A000;
-// Back_Cycle_3 = 0x0C0000A0;
-// Back_Cycle_4 = 0x0CA0A000;
-// Text_Cycle_1 = 0xFFA00000;
-// Text_Cycle_2 = 0xFF00A000;
-// Text_Cycle_3 = 0xFF0030B0;
-// Text_Cycle_4 = 0xFFA0A000;
+defcolor_back_cycle = { 0x10A00000, 0x0C00A000, 0x0C0000A0, 0x0CA0A000 };
+defcolor_text_cycle = { 0xFFA00000, 0xFF00A000, 0xFF0030B0, 0xFFA0A000 };
