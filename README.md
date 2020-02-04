@@ -23,5 +23,5 @@ Theme based on [challenger-deep](https://github.com/challenger-deep-theme/).
 ### Gruvbox
 ![](./Screenshots/Gruvbox.png)
 
-## Custom layer
+## Custom Layer
 ### TODO
